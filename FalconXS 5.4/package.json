@@ -1,0 +1,13 @@
+{
+  "name": "falconxs",
+  "version": "1.0.0",
+  "description": "FalconXS AI chat website powered by the OpenAI Responses API.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
